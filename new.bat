@@ -1,1 +1,2 @@
-echo "new file created .bat"
+echo "new file created .bat
+update the file"
